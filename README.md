@@ -1,5 +1,5 @@
 
-# NLP to SQL Sales Data App
+# Automatic Recipe Creator
 
 An automatic recipe generator is an innovative application that takes the ingredients available in your fridge and generates a list of recipe options that you can cook using those ingredients. The generator uses the Davinci API, which is a cutting-edge artificial intelligence language model developed by OpenAI, to analyze the available ingredients and come up with a recipe suggestion that is both delicious and easy to make.
 
